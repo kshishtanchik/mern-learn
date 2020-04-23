@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "mice have been crying, stabbing",
+  "mongoUrl": "mongodb+srv://vasiliy:turtoise63@cluster0-zizy6.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
